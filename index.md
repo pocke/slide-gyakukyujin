@@ -21,6 +21,7 @@
 
 - RuboCop
 - SideCI
+- etc...
 
 ---
 
@@ -59,9 +60,9 @@ https://github.com/bbatsov/rubocop/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Apoc
 
 - Add new cop [#3588](https://github.com/bbatsov/rubocop/pull/3588) [#3492](https://github.com/bbatsov/rubocop/pull/3492) [#3415](https://github.com/bbatsov/rubocop/pull/3415)
 - Improve development environment [#3533](https://github.com/bbatsov/rubocop/pull/3533) [#3594](https://github.com/bbatsov/rubocop/pull/3594)
-- Bug fix
-- Implement Auto-Correction
-- And more!
+- Many bug fixes
+- Implement Auto-Corrections
+- ...And more!
 
 
 ---
@@ -113,6 +114,23 @@ Comment to GitHub
 
 ---
 
+# Other Products
+
+---
+
+- [pocke/lemonade](https://github.com/pocke/lemonade)
+	- A remote utility tool
+- [skyarch-networks/skyhopper](https://github.com/skyarch-networks/skyhopper/)
+	- A web application for Infrastructure as Code
+- [pocke/sl_tweet](https://github.com/pocke/sl_tweet)
+	- When run `sl` command, say `slコマンドが走りました` to Twitter
+
+<img src="other_contribution.png" alt="">
+
+<img src="other_product.png" alt="">
+
+---
+
 
 # Vision
 
@@ -126,3 +144,4 @@ Comment to GitHub
 	- Make happy the world by the above.
 	- Make happy the world by my technology.
 - Freedom
+	- Flex time, ...
